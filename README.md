@@ -1,16 +1,14 @@
-### Hi there 👋
+# GitHub With Soli
 
-<!--
-**soli-tsaagane/soli-tsaagane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### 👋🏾 Welcome to my GitHub Profile. 
+I'm glad you've arrived. I'm an audio technician and web developer from South Africa. Have a look below for more!
 
-Here are some ideas to get you started:
+## Socials
+- [Facebook]('https://www.facebook.com/soli.rsa')
+- [Instagram]('https://www.instagram.com/soli_rsa')
+- [Twitter]('https://www.twitter.com/soli_rsa')
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Vader Media
+- [Website]('https://www.vadermedia.co.za)
+- [Vader Music]('https://www.twitter.com/vader_music')
+- [Vader Productions]('https://www.twitter.com/vaderprod')
