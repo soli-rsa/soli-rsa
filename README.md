@@ -14,13 +14,10 @@ While my audio work lets me explore the realms of sound and music, my web develo
 ## Connect with Me
 Let's connect and collaborate! Check out my work on HearThis and explore the harmonious blend of audio and technology. Join me on this exciting journey as I continue to push the boundaries of what's possible.
 
-Name: Soli Tsaagane
-Profession: Audio Technician, Web Developer
-Location: Ekurhuleni, South Africa
-Geo: Ekurhuleni, South Africa
-Followers: 3
-Following: 12
-Likes: 30
+- Name: Soli Tsaagane
+- Profession: Audio Technician, Web Developer
+- Location: Ekurhuleni, South Africa
+- Geo: Ekurhuleni, South Africa
 
 ## Socials
 - [Facebook](https://www.facebook.com/soli.rsa)
